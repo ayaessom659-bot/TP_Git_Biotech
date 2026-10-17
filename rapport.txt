@@ -1,0 +1,12 @@
+Git est un système de contrôle de version qui permet de suivre les modifications des fichiers.
+Il est utile pour organiser le travail et revenir aux versions précédentes.
+GitHub est une plateforme en ligne qui permet de stocker et partager des projets.
+Pendant ce TP, j'ai appris à créer un dépôt et à le cloner dans Google Colab.
+J'ai également appris à utiliser les commandes add, commit et push.
+Ces outils facilitent le travail collaboratif et la gestion des projets.
+
+Mon projet biotechnologique :
+Je souhaite développer un projet utilisant des bactéries bénéfiques
+pour améliorer la qualité du sol et favoriser la croissance des plantes.
+Git me permettra de suivre les modifications du projet et de conserver
+les différentes versions de mes fichiers.
